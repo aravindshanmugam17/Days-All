@@ -1,0 +1,36 @@
+                                                        Day 66Task
+                                         MVC Architecture and ECMAScript Variables
+  1.What is MVC architecture?
+      ~ Model-View-Controller (MVC)is an architectural pattern commonly used for developing user
+       interface that divides an application in to three interconnected parts-Model,View,and 
+       controller.
+
+      1.Model: it represent application data.it retrieves,stores,and maintains the data of the
+       application in adatabase.
+
+      2.View:A view is what you see when you visit a site.Example:blog post,contact form,etc.it
+       sends the data to the client.Generally,views are HTML documents.
+
+      3.Controller:it is a software code that controls the interactions between the model and View.
+       react is positioned in the view (V) section of the MVC model.
+
+     2.What is the difference between var,let and const?
+
+    comparison               var                       let                                 const
+
+    Hoisting             Supports hoisting      Does not support hoisting     Does not support hoisting
+
+     Scope               Functional scope          Block scope                     Block scope
+ 
+    Mutability             Mutable                   Mutable                        Immutable
+
+   ECMAscript              ES5                        ES6                             ES6
+
+  3.client-side architecture:
+
+      .Efficient network usage
+      .Optimized for caching 
+      .Rich interaction through dynamic UI components
+      .No UI blocking and no slowpage relods
+      .Efficients database usage
+      .API reuse

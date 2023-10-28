@@ -1,0 +1,67 @@
+                                                         Day 67Task
+                                        JSX Advantages and Disadvantages of React.js
+1.What are the advantages of react.js?
+
+    ~short Learning Curve:React offers a lower leranung curve,all you need to know is javaScipt and
+    HTML.
+
+    ~Building Rich UI:it allows you to develop engaging and superior quality interfaces with its declarative 
+     components feature.
+
+   ~Create Custom Components:JSX allows creating unique components to suit your requirements
+   and renders sub-components with ease.
+
+   ~Boosts Productivity:it enables developers to redistribute the same objects with the help of
+   components reusing feature.
+
+   ~Quick Rendering:With virtual Dom,any change made in the app can be tested to check the risk
+   level before finalizing it.
+
+   ~SEO-Friendly:it is having fast load time and rendering which plays imporatant for higher ranking
+   in serp.
+
+   ~Useful Developer Toolset: Companies like Facebook have included several developer tools for
+   React framework to help develpers immensely in discovering parent and child components,
+   observing their hierarchies,and analyze their present state,etc.
+
+   ~Code stability:The data flow in React certifies that the parent structure is not impacted by any
+   kind of changes made in the child structure.
+
+  ~Community Support:React developers are actively uploading text/video tutorials online and 
+  answer queries on various forums and QA sites. 
+
+
+  2. What are the disadvantages of react.js?
+
+     1.Adequate Documentation:Despite having the largest community of reacting developers,there 
+     is a need for proper documentation.
+
+     2.Develop UI Only:it is not possible to develop the complete application by using react.js only.
+
+     3.High pace: it can build application very fast,which can put a lot of pressure on the developer.
+
+     4.Migarating Data. Apps future must be certain because it's very difficult and time-consuming to
+    migrate from react.
+
+  3.What is jsx?
+
+    .JSX stands for javaScript XML, which lets you write the HTML code within java script.
+
+    .it is type-safe as most of the errors can be caught during compilation.
+
+    .it uses the render function to return a single HTML element at a time.
+
+    .React components are typically written using JSX,although they do not have to be
+   (components may also be written in pure JavaScript).
+
+  4.Why do we use React.js?
+
+   1. Develop components for high-performing and high-volume applications.
+
+   2.Create SEO- frindly applications.
+
+   3.User-friendly and responsive single-page and quick-loading application.
+
+   4.Components can be reused and created as per requirements.
+
+    5.Enchances the productivity of developers. 
